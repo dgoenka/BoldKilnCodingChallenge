@@ -4,4 +4,13 @@
     <string name="dummy_button">Dummy Button</string>
     <string name="dummy_content">DUMMY\nCONTENT</string>
     <string name="title_activity_sign_up">Sign Up</string>
+    <string name="password_not_matching">Passwords not matching</string>
+    <string name="check_errors">Please check your errors and try again</string>
+    <string name="enter_valid_email_address">Enter a valid email address</string>
+    <string name="name_field_hint">Name</string>
+    <string name="email_field_hint">Email</string>
+    <string name="password_field_hint">Password</string>
+    <string name="enter_a_valid_password">Enter a vald password</string>
+    <string name="confirm_password_field_hint">Confirm Password</string>
+    <string name="register_button_label">Register</string>
 </resources>
